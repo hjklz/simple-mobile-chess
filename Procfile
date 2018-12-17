@@ -1,0 +1,1 @@
+web: gunicorn mobile-chess/mobile-chess.wsgi
