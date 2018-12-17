@@ -1,1 +1,1 @@
-web: gunicorn mobile-chess/mobile-chess.wsgi
+web: gunicorn mobile-chess.wsgi
